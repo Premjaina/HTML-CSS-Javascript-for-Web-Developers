@@ -23,3 +23,4 @@ Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-develope
 
 ![](front_look.png)
 
+# some credit goes to viku's repository

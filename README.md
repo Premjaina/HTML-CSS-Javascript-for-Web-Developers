@@ -4,7 +4,7 @@ This repository is created for submitting the solutions of the assignments of th
 Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-developers
 
 ## Module #2 Coding Assignment Solution
-   code url: https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/tree/master/module2-solution
+   code url: https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/tree/master/module2-solution  
    Hosted url: https://kr-viku.github.io/Coursera-HTML-CSS-Javascript-for-Web-Developers/module2-solution/
 
 ## Module #3 Coding Assignment Solution
